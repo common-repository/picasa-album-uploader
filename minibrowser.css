@@ -1,0 +1,105 @@
+/*
+	Copyright: 2011,2015 Kenneth J. Brucker (email: ken@pumastudios.com)
+
+	This file is part of Picasa Album Uploader, a plugin for Wordpress.
+
+	Picasa Album Uploader is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	Picasa Album Uploader is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+*/
+
+/**************************************************************************
+ * Picasa does not appear to be able to handle multiple element selectors *
+ **************************************************************************/
+
+/* ========================== */
+/* = Minibrowser formatting = */
+/* ========================== */
+
+body {
+	line-height: 1;
+}
+
+.button {
+	clear: both;
+}
+
+/* Applies to content area of the minibrowser window - reset for visibility */
+.entry {
+  font-weight: inherit;
+  font-size: 100%;
+	line-height: 1;
+	background: none white;
+}
+
+.pau-header {
+	font-size: 110%;
+}
+
+/* Applies to section around all photos */
+.pau-images {
+}
+
+.pau-img {
+	display: block;
+	clear: both;
+}
+
+/* Applies to each img displayed */
+.pau-img img {
+	float: left;
+	width: 110px;
+	margin: 5px 10px 0 5px;
+}
+
+.pau-attributes {
+	margin: 0px 0px 18px 0px;
+	float: left;
+}
+
+.pau-attributes label {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+.pau-attributes label span {
+	margin: 5px 0 0 0;
+	padding: 0;
+	display: block;
+	width: 6em;
+	vertical-align: top;
+}
+
+input.pau-img-text {
+	width: 400px;
+	margin: 5px 0 5px 15px;
+}
+
+textarea.pau-img-textarea {
+	height: 60px;
+	width: 400px;
+	margin-left: 15px;
+	vertical-align: top;
+}
+
+.pau-img-size {
+	clear: both;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.pau-img-size label {
+	display: block;
+	margin: 5px 0 5px 15px;
+}
+
+.pau-img-size input {
+	margin-right: 7px;
+}

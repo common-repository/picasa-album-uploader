@@ -1,0 +1,136 @@
+# Copyright (C) 2016 Picasa Album Uploader
+# This file is distributed under the same license as the Picasa Album Uploader package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Picasa Album Uploader 0.11\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/picasa-album-"
+"uploader\n"
+"POT-Creation-Date: 2016-11-23 22:56:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/options.php:168
+msgid "%1$s requires the use of %2$s"
+msgstr ""
+
+#: admin/options.php:174
+msgid ""
+"%s logging is enabled.  If left enabled, this can affect database "
+"performance."
+msgstr ""
+
+#: admin/options.php:214
+msgid ""
+"To use Picasa Album Uploader, install the Button in Picasa Desktop using "
+"this automated install link:"
+msgstr ""
+
+#: admin/options.php:220
+msgid ""
+"To use Picasa Album Uploader, Permalinks must be enabled due to limitations "
+"in the Desktop Picasa application."
+msgstr ""
+
+#: admin/options.php:235
+msgid ""
+"Set the slug used by the plugin.  Only alphanumeric, dash (-) and underscore "
+"(_) characters are allowed.  White space will be converted to dash, illegal "
+"characters will be removed."
+msgstr ""
+
+#: admin/options.php:237
+msgid ""
+"When the slug name is changed, a new button must be installed in Picasa to "
+"match the new setting."
+msgstr ""
+
+#: admin/options.php:357
+msgid "Enable Plugin Debug Logging."
+msgstr ""
+
+#: admin/options.php:370
+msgid "Use PHP error_log() vs. displaying below"
+msgstr ""
+
+#: picasa-album-uploader.php:358
+msgid "Download Picasa Button and Install in Picasa Desktop"
+msgstr ""
+
+#: picasa-album-uploader.php:359
+msgid "Install Image Upload Button in Picasa Desktop"
+msgstr ""
+
+#: picasa-album-uploader.php:430
+msgid "Sorry, you do not have permission to upload files."
+msgstr ""
+
+#: picasa-album-uploader.php:431
+msgid "You have been logged out."
+msgstr ""
+
+#: picasa-album-uploader.php:432
+msgid "Please close this window and reissue the request from Picasa."
+msgstr ""
+
+#: picasa-album-uploader.php:605 picasa-album-uploader.php:648
+msgid "Upload"
+msgstr ""
+
+#: picasa-album-uploader.php:611
+msgid "Select your upload image size:"
+msgstr ""
+
+#: picasa-album-uploader.php:619
+msgid "Selected images"
+msgstr ""
+
+#: picasa-album-uploader.php:637
+msgid "Title"
+msgstr ""
+
+#: picasa-album-uploader.php:638
+msgid "Caption"
+msgstr ""
+
+#: picasa-album-uploader.php:639
+msgid "Alt Text"
+msgstr ""
+
+#: picasa-album-uploader.php:640
+msgid "Description"
+msgstr ""
+
+#: picasa-album-uploader.php:656
+msgid "Sorry, no images were received from Picasa."
+msgstr ""
+
+#: uninstall.php:41
+msgid ""
+"You do not have authorization to run the uninstall script for this plugin."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Picasa Album Uploader"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://pumastudios.com/software/picasa-album-uploader-wordpress-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily upload media from Google Picasa Desktop into WordPress.  Navigate to "
+"<a href=\"options-media.php\">Settings &rarr; Media</a> to configure."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kenneth J. Brucker"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://action-a-day.com"
+msgstr ""

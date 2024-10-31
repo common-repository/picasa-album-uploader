@@ -1,0 +1,33 @@
+/*
+	Copyright: 2016 Kenneth J. Brucker (email: ken.brucker@action-a-day.com)
+
+	This file is part of Picasa Album Uploader, a plugin for Wordpress.
+
+	Picasa Album Uploader is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	Picasa Album Uploader is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+*/
+
+/* =========================== */
+/* = Admin Screen formatting = */
+/* =========================== */
+
+#pau_slug {
+	width: 15em;
+}
+
+.pau-debug-log {
+	margin: 5px ;
+	padding: 5px ;
+	border: 1px black solid ;
+}
+
+.pau-debug-log dd {
+	padding-left: 3em ;
+}
